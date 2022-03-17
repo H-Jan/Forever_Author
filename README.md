@@ -10,10 +10,11 @@ to learn and generate texts mimicking the style, structure, and content of the c
 
 <h2> Why R.N.N. </h2>
 
-If you are familiar in working with text generation and text datasets in deep learning applications, you may wonder *why use a R.N.N. instead of another N.L.P. (Natural Language Processor) approach?*
-The purpose of an R.N.N. in this context allows the "rememberence" of previous inputs through internal memory, specifically through the **Long-Short-Term Model (L.S.T.M.)**. This will allow us to 
-better develop the literary style of the author as opposed to simple generation of text through a more conventional N.L.P.
-  
+Our emphasis on the use of an R.N.N., or Recurrent Neural Network, is not without purpose. R.N.N. are often used in context of forecasting tasks — tasks that require an element of adaptation. The main constraint with R.N.N.s, however, is that it should often form a time series. Conversely, N.L.P., or Natural Language Processors, are a field of A.I. that enable a computer to properly process language and text data reformatted into specially adapted datatypes like booleans or one/zero integer values.
+
+Combining both allows us to achieve something grand
+
+> *converting text into numbers, and feeding those numbers into a neural network that loops back on itself to train, learn, and generate the next possible outcome, in this case another sentence, paragraph, or book never written by the author.*
  
 <h2> Required Imports </h2>
 These include:
@@ -69,10 +70,10 @@ as an add-in for *style*, mimicking more verbose vernacular and looser sentence 
 
 <h2> Resources </h2>
 
-Text data found (here)[https://www.gutenberg.org/files/1661/1661-0.txt]
+Text data found [here](https://www.gutenberg.org/files/1661/1661-0.txt)
 
-Jupyter Notebook found (here)[]
+Jupyter Notebook found [here](https://colab.research.google.com/drive/1YhcD91dBei1uJtmWPqVmjqTt-9YfU_JD?usp=sharing)
 
-Medium Article found (here)[]
+Medium Article found [here](https://medium.com/@hanijandali/creating-new-stories-with-deep-learning-adb00ba047a9)
 
 
