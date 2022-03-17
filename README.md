@@ -61,12 +61,12 @@ These include:
 To train our model, we simply fit it to our specified parameters with the appropriate functions and generate texts using a function with parameters of length and diversity, which was created 
 as an add-in for *style*, mimicking more verbose vernacular and looser sentence structure associated with the literature and language of the time.
 
-<h2> Results </h2> 
+<h2> Results and Conclusion </h2> 
 
 
+<img width="815" alt="Forever_Authored_results" src="https://user-images.githubusercontent.com/69823896/158814785-34bfc977-6edc-4308-bf26-34680bf62248.png">
 
-<h2> Conclusion </h2>
-
+As can be seen, the generated texts carry the same effect of verbose sentence structure and vernacular as the original Sherlock Holmes novels, however, lack coherency from sentence to sentence. Furthermore, the generated texts suffer from repetition of phrases and words in poor context, as well as incorrectly spelled words. Yet, rather resoundingly, *they show promise, demonstrating glimpses of similar writing style of consistency as the original text.*
 
 <h2> Resources </h2>
 
